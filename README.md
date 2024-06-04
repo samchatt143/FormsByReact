@@ -1,1 +1,3 @@
 # FormsByReact
+Its a form made by REACT JS using REACT HOOKS and having a feature to view the LOGIN form or SIGNUP form depending on the input entered by the user....
+Kindly access the website from here--->https://filluptheform.netlify.app/
